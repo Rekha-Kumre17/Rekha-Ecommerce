@@ -1,1 +1,2 @@
-# Dhruv-ECom to checkout this website click on a link -> 
+# Rekha-ECommerce
+To checkout this website click on a link -> 
